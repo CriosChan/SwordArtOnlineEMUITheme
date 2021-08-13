@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lockscreen version="1" frameRate="30" displayDesktop="true" screenWidth="1080" id="201805221979">
+    <Wallpaper/>
+    <VR imageType="SPHERICAL" src="spherical.jpg" touchType="0" />
+    <DateTime color="#FFFFFF" size="50" x="200"  y="700" />
+    <Time space="20" src="time.png" x="200"  y="500"  />
+    <Unlocker name="unlocker" bounceInitSpeed="2000" bounceAcceleration="3000">
+        <StartPoint x="0"  y="#screen_height-2160+1800" w="1080" h="1000" >
+        </StartPoint>
+        <EndPoint x="-1000"  y="1600-#screen_height" w="#screen_width+1000" h="#screen_height" >
+        </EndPoint>
+    </Unlocker>
+</Lockscreen>

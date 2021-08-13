@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layout frameRate="30" version="3.0" screenwidth="1080">
+
+	<!--Time-->
+	<image x="10" y="system.screen_height-1712" w="100" h="200" src="'number_'+system.time.hour1+'.png'"/>
+	<image x="110" y="system.screen_height-1712" w="100" h="200" src="'number_'+system.time.hour2+'.png'"/>
+	<image x="210" y="system.screen_height-1720" w="30" h="200" src="colon.png"/>
+	<image x="240" y="system.screen_height-1712" w="100" h="200" src="'number_'+system.time.min1+'.png'"/>
+	<image x="340" y="system.screen_height-1712" w="100" h="200" src="'number_'+system.time.min2+'.png'"/> 
+
+	<!--Date-->
+	<text x="45" y="system.screen_height-1520" w="1080" h="80" align="left" size="14" color="#FFFFFFFF" src="system.date"/>
+	<!--am pm-->
+	<text x="450" y="system.screen_height-1700" w="200" h="100" visible="system.time.showampm" align="left" size="20" color="#FFFFFFFF" src="system.time.ampm"/>
+
+	<!--Unread phone and messages-->
+	<text x="45" y="system.screen_height-1300" w="1080" h="80" align="left" size="14" color="#FFFFFF" src="system.message.text" visible="system.message.count gt 0"/>
+    <text x="45" y="system.screen_height-1240" w="1080" h="80" align="left" size="14" color="#FFFFFF" src="system.call.text" visible="system.call.count gt 0"/>
+                
+    <!--Charge--> 
+    <text x="45" y="system.screen_height-1445" w="1080" h="70" align="left" size="14" color="#FFFFFF" src="system.charge.text" visible="system.charge.show and system.music_visible eq 0"/>
+    <text x="0" y="system.screen_height-170" w="1080" h="70" align="center" size="14" color="#FFFFFF" src="system.ownerinfo.text" visible="!system.charge.show and system.ownerinfo.show" ellipsize="marquee"/>
+	
+	<!--unlock prompt-->
+    <smarticon y="system.screen_height-240" color="#FFFFFF" />
+
+
+</layout>
+
+

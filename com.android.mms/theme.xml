@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<color name="fab_new_message_bg_press">#FFEBA601</color>
+<color name="color_gray_one">#FF707070</color>
+<color name="message_editor_background">#FFFFFFFF</color>
+<color name="ic_switchsimcard_forecard_rcs_bg_color">#FFEBA601</color>
+<color name="ic_switchsimcard_forecard_sms_bg_color">#E6000000</color>
+<color name="mms_color_primary_dark">#FFFFFFFF</color>
+<color name="messaeg_pop_text_color_send_sms_theme_adapter">#FF242424</color>
+<color name="encrypt_pop_send_text_color">#FF242424</color>
+<color name="messaeg_pop_text_color_send_rcs_theme_adapter">#FF242424</color>
+<color name="message_pop_send_bg_color">#E6000000</color>
+<color name="duoqu_rcs_url_bg_color">#FFFFFFFF</color>
+</resources>

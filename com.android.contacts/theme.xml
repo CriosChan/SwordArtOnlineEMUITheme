@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<color name="hwfab_bg">#FFEBA601</color>
+<color name="hwfab_pressed">#FFEBA601</color>
+<color name="hwfab_shadow_start">#4D007DFF</color>
+<color name="hwfab_shadow_end">#4D007DFF</color>
+<color name="dial_fab_backgrounp">#FFEBA601</color>
+<color name="dial_fab_backgrounp_pressed">#FFEBA601</color>
+<color name="dial_fab_backgrounp_focue">#FFEBA601</color>
+<color name="dial_hwfab_shadow_start">#4D007DFF</color>
+<color name="dial_hwfab_shadow_end">#4D007DFF</color>
+<color name="hwfab_icon_start">#FFFFFFFF</color>
+<color name="hwfab_icon_end">#FFFFFFFF</color>
+<color name="contact_svg_icon_base_green_color_a">#FFEBA601</color>
+<color name="contact_svg_icon_base_grey_color_c">#FF4D4D4D</color>
+<color name="bottom_tab_bg">#FF707070</color>
+<color name="tips_and_divider_color">#FF707070</color>
+<color name="hwsubtab_emui_color_bg">#FF707070</color>
+<color name="editor_default_avatar_element_icon">#99FFFFFF</color>
+<color name="hwsubtab_emui_subtab_text_on">#FFEBA601</color>
+<color name="hwsubtab_indicator_color">#FFEBA601</color>
+<color name="hwsubtab_emui_subtab_text_off">#E6000000</color>
+<color name="background_change">#00000002</color>
+<color name="hicall_recent_call_type_image">#99FFFFFF</color>
+<color name="hwdotspageindicator_emui_gray_3">#FF707070</color>
+<color name="emui_accent">#FFEBA601</color>
+<color name="familyname_overlay_list_divider">#FF000000</color>
+<color name="divider_color">#FF000000</color>
+</resources>

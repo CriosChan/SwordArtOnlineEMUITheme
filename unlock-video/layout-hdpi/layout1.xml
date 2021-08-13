@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout frameRate="30" version="3.0" screenwidth="1080">
+<image h="200" src="'number_'+system.time.hour1+'.png'" w="100" x="45" y="208"></image>
+<image h="200" src="'number_'+system.time.hour2+'.png'" w="100" x="145" y="208"></image>
+<image h="200" src="colon.png" w="30" x="245" y="208"></image>
+<image h="200" src="'number_'+system.time.min1+'.png'" w="100" x="275" y="208"></image>
+<image h="200" src="'number_'+system.time.min2+'.png'" w="100" x="375" y="208"></image>
+<text align="left" color="#FFFFFFFF" h="80" size="14" src="system.date" w="990" x="45" y="400"></text>
+<text align="left" color="#FFFFFFFF" h="100" size="14" src="system.time.ampm" visible="system.time.showampm" w="200" x="500" y="230"></text>
+</layout>

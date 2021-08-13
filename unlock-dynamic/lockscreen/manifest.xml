@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lockscreen version="1" frameRate="30" screenWidth="1080"  >
+    <Wallpaper/>
+    <Unlocker name="unlocker" bounceInitSpeed="2000" bounceAcceleration="3000">
+        <StartPoint x="0"  y="0" w="#screen_width" h="#screen_height" >
+        </StartPoint>
+        <EndPoint x="-1000"  y="-200-#screen_height" w="#screen_width+1000" h="#screen_height" >
+        </EndPoint>
+    </Unlocker>
+    <Image name="step_picture" x="52"  y="#screen_height-2160+1996" w="75" h="75" pivotX="0" pivotY="0" src="step_picture.png" align="left" alignV="top" >
+    </Image>
+    <Text name="step" x="150"  y="#screen_height-2160+2000" format="Step is: %d" paras="#steps_value" size="50" color="#FFFFFF"  />
+    <DateTime color="#FFFFFF" size="50" x="200"  y="700" />
+    <Group name="clock_time_image">
+        <Image x="184"  y="400" w="100" h="200"   src="time.png" srcid="int((#hour)/10)" />
+        <Image x="310"  y="400" w="100" h="200"   src="time.png" srcid="int(#hour%10)" />
+        <Image x="530"  y="400" w="100" h="200"   src="time.png" srcid="int(#minute/10)" />
+        <Image x="660"  y="400" w="100" h="200"   src="time.png" srcid="int(#minute%10)" />
+        <Image x="440"  y="400" w="60" h="200"  src="time_dot.png" />
+    </Group>
+</Lockscreen>

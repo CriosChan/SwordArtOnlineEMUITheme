@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HWTheme>
+    <item style="slide"/>
+    <item layout="layout1"/>
+    <item package="com.huawei.ucdlockscreen"/>
+    <item dynamicPath="ucdscreenlock"/>
+    <item minversion="1.4"/>
+    <item title-cn="华为主题官方"/>
+    <item title="Huawei Themes"/>
+    <item maxHeight="2160"/>
+</HWTheme>

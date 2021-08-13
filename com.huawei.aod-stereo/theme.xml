@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HWTheme>
+    <item style="digitclock"/>
+    <item clock="3"/>
+    <item foreground="0"/>
+    <item background="0"/>
+    <item fontcolor="#FFFFFF"/>
+</HWTheme>

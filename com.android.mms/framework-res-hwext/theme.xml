@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+<!-- Background color （Must be uniform in color）-->
+
+<!-- Actionbar background color  -->
+<!-- Signal bar background color -->
+<color name="emui_appbar_bg">#FFFFFFFF</color>
+<color name="emui_appbar_bg_blur">#FEFFFFFF</color>
+<!-- ID serves as the basis for inverting the text and icon color in the signal bar, and must be consistent with the emui_appbar_bg color value-->
+<color name="hwtoolbar_background">#FFFFFFFF</color>
+
+<!-- Bottom Toolbar background color -->
+<color name="emui_toolbar_bg">#FFE6E6E6</color>
+<color name="emui_toolbar_bg_blur">#FEE6E6E6</color>
+
+<!-- Navigation bar background color -->
+<color name="emui_navigationbar_bg">#FFE6E6E6</color>
+<color name="emui_navigationbar_bg_blur">#FEE6E6E6</color>
+<!-- ID serves as the base for inverting the icon color in the navigation bar, and must be consistent with the emui_navigationbar_bg color value-->
+<color name="navigationbar_emui_light">#FFE6E6E6</color>
+
+<!--Sub tab background color -->
+<color name="emui_subtab_bg">#FFFFFFFF</color>
+<color name="emui_subtab_bg_blur">#FEFFFFFF</color>
+
+<!--Tooltips background color -->
+<color name="emui_color_tips_bg">#FFE6E6E6</color>
+
+<!--User interface background color -->
+<!-- Received MMS divider color -->
+<!--  search box  background color-->
+<!-- Drop down notification panel/Background color -->
+<color name="emui_color_bg">#FFFFFFFF</color>
+
+<!--Common background color of controls-->
+<color name="emui_control_normal">#E6000000</color>
+
+
+<!-- Divider color （Suggested: uniform in color）-->
+
+<!-- List divider color -->
+<color name="emui_color_divider_horizontal">#33000000</color>
+
+
+<!-- Special color -->
+ <!-- Dialer button background color  Normal status --> 
+<color name="emui_color_connected">#FF41BA41</color>
+
+
+<!-- Highlight color （Suggested: uniform in color）-->
+<!-- Highlight color -->
+<color name="emui_accent">#FF007DFF</color>
+
+<!-- Text button color-->
+<!-- Link text -->
+<color name="emui_functional_blue">#FF007DFF</color>
+
+<!-- Radio button highlight color -->
+<color name="emui_switch_bg_on">#FF007DFF</color>
+
+<!-- Not delivered icon, Message Settings hint text highlight color -->
+<color name="emui_functional_red">#FFFA2A2D</color>
+
+ <!-- Cursor color  The same as that of emui_accent-->
+
+ <!-- Progress bar animation color -->
+<color name="emui_progress">#FF007DFF</color>
+
+
+ <!-- Subtab sub-title bar highlight color -->
+ <!-- Text highlight color -->
+<color name="hwsubtab_emui_subtab_text_on">#FF007DFF</color>
+<color name="emui_subtab_text_on">#FF007DFF</color>
+ <!-- Underlined text highlight color-->
+<color name="hwsubtab_indicator_color">#FF007DFF</color>
+<color name="emui_subtab_line_on">#FF007DFF</color>
+
+<!-- Bottomtab selected highlight color -->
+<!--Icon highlight color-->
+<color name="emui_bottombar_icon_on">#FF007DFF</color>
+<!--Text highlight color-->
+<color name="emui_bottombar_text_on">#FF007DFF</color>
+
+
+<!-- First-level icon text color （Suggested: uniform in color; distinguish statuses through different transparencies and highlight colors）-->
+<!--First-level icon text color -->
+<color name="emui_primary">#E6000000</color>
+<!--Spinner drop down list icon color -->
+<color name="emui_spinner_icon">#FF191919</color>
+<color name="emui_color_spinner_icon">#FF191919</color>
+
+<!-- Warning text color -->
+<!-- Dialer keys and number origin text color -->
+<!-- appbar More dialog box text color -->
+<!-- Dual SIM mode SIM 1/SIM 2 dialog box text color -->
+<!-- Dialog box description text color -->
+<!-- Dialog box list text color -->
+<!-- Settings second-level text, message recipient input text, message conversation input text, and hint bubble text -->
+<!-- "Add to folder" Icon background color -->
+<!-- Single line list text color--> 
+<!-- Double line list text color--> 
+<!-- Dialer Settings speed dial -->
+<!-- Edit contact "Imported from" first-level text color -->
+<!-- Edit contact "Imported from" second-level text color -->
+<!-- Edit contact "Imported from" third-level text color -->
+<!-- Add contact number category text color -->
+<!-- QR code dialog box text color--> 
+<!--Advanced messaging "Touch and hold to talk" button text color -->
+<!-- Message conversation attachment location loading hint text color -->
+<!-- Message conversation Actionbar contact name color -->
+<!-- Message recipient chips character string color -->
+<!-- Message conversation attachment Gallery text color -->
+<!--Message conversation attachment recording timing text color -->
+<!-- Message conversation attachment Audio and Slides text color -->
+<!--Messaging main screen "You haven't enabled Advanced messaging yet." text color -->
+<!-- Messaging search results first line text color -->
+<!--Group chat list title-->
+<!-- Message conversation text color and attachment contacts number color-->
+<!-- Common phrases text color -->
+<!-- Messaging initial launch banner, first and second line text color -->
+<!-- New message input box hint text color -->
+<!-- Message conversation MMS input text color -->
+<!-- Received message text color and recipient list title text color  -->
+<!-- Manage SIM card messages screen message text color -->
+<!-- Message Settings Delivery reports pop box list text color -->
+<!-- Drop down notification panel upper-left date and time color -->
+<!-- Drop down notification panel upper-left date and time background color -->
+<!-- User editing screen User name text color -->
+<!-- User editing screen Owner text color -->
+<!-- SIM card Settings Call forwarding Always forward "Start time" and "End time" text color -->
+<!-- Auto-record calls Listed numbers object and number title color -->
+<color name="emui_text_primary">#E6000000</color>
+
+<!-- Title bar icon color -->
+<color name="emui_appbar_icon">#E6000000</color>
+<color name="emui_appbar_icon_pressed">#E6000000</color>
+
+<!-- Title bar text color -->
+<color name="emui_appbar_title">#E6000000</color>
+
+<!-- Bottom Toolbar icon and text color -->
+<!-- Icon color-->
+<color name="emui_toolbar_icon">#E6000000</color>
+<color name="emui_toolbar_icon_actived">#FF007DFF</color>
+<color name="emui_toolbar_icon_pressed">#E6000000</color>
+<!--Text color-->
+<color name="emui_toolbar_text">#E6000000</color>
+<color name="emui_toolbar_text_actived">#FF007DFF</color>
+<color name="emui_toolbar_text_pressed">#E6000000</color>
+
+
+<!-- Second-level icon text color （Suggested: uniform in color; distinguish statuses through different transparencies and highlight colors）-->
+
+<!--Untouched text color  The same as that of emui_text_primary-->
+<!-- Spinner text color The same as that of emui_text_primary-->
+<!-- Dialer/Messaging Settings third-level text The same as that of emui_text_primary--> 
+<!-- Call details Call log second-line text color The same as that of emui_text_primary-->
+
+<!-- SSubtab sub-title bar highlight color -->
+<color name="hwsubtab_emui_subtab_text_off">#E6000000</color>
+<color name="emui_subtab_text_off">#E6000000</color>
+
+<!-- Bottomtab selected highlight color -->
+<!--Icon highlight color (untouched)-->
+<color name="emui_bottombar_icon_off">#E6000000</color>
+<!--Text highlight color (untouched)-->
+<color name="emui_bottombar_text_off">#E6000000</color>
+
+
+<!-- searchview text color-->
+<!--Search box hint text color-->
+<color name="emui_text_hint">#99000000</color>
+
+<!--Rightwards arrow -->
+<color name="emui_icon_tertiary">#E6000000</color>
+
+<!-- Second-level icon color-->
+<color name="emui_secondary">#E6000000</color>
+
+<!--  APPbar sub-title text color  -->
+<color name="emui_appbar_subtitle">#E6000000</color>
+
+<!-- Dialog box button color （Suggested: uniform in color）-->
+<!-- Selected text background color  The same as that of emui_accent-->
+
+<!-- Alphabetical index pop background color -->
+<color name="emui_fastscroll_lable_bg">#FFE6E6E6</color>
+
+<!-- Switch off background color --> 
+<!--Off status-->
+<color name="switch_track_off_bg_emui">#FFE6E6E6</color>
+<!--Disabled status-->
+<color name="switch_off_disable_emui">#FFE6E6E6</color>
+
+<!-- Radio button background and border color -->
+<!--Checkbox border color-->
+<color name="emui_checkbox_boxedge">#60000000</color>
+
+<!--border color-->
+<color name="emui_switch_outline_off">#60000000</color>
+<!-- background color-->
+<color name="emui_switch_bg_off">#FFE6E6E6</color>
+
+<!-- Checkbox interior background color -->
+<color name="emui_white_bg">#FFE6E6E6</color>
+
+<!-- Bullet box background color -->
+<color name="emui_dialog_bg">#FFE6E6E6</color>
+
+<!--  Toast background color -->
+<color name="emui_toast_bg">#FFE6E6E6</color>
+
+
+<!--Add items to each module-->
+<!-- Background color -->
+
+<!-- Contacts divider color -->
+<color name="emui_color_subheader_divider">#33000000</color>
+
+<!-- Highlight color -->
+<!-- Link text -->
+<color name="clickeffic_default_color_emui">#0D000000</color>
+
+<!--Messaging conversation input bar background color- -->
+<color name="emui_color_fg">#FF000000</color>
+
+<!-- Dialer icon color -->  
+<color name="emui_color_fg_inverse">#FFFFFFFF</color>
+
+<!-- popupmenu title color --> 
+<color name="emui_color_gray_10">#E6000000</color>
+
+<!-- Subtitle text color --> 
+<color name="emui_color_gray_7">#E6000000</color>
+
+<!-- Dual SIM mode dialer button text color --> 
+<color name="emui_text_primary_inverse">#FFFFFFFF</color>
+</resources>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<color name="workspace_app_text_color">#FFFFFFFF</color>
+<color name="workspace_app_text_shadowColor">#00000000</color>
+<bool name="workspace_app_text_shadow">false</bool>
+<color name="icon_shadow">#00000000</color>
+<color name="folder_app_text_color">#FFFFFFFF</color>
+<color name="folder_app_text_shadowColor">#00000000</color>
+<bool name="folder_app_text_shadow">false</bool>
+<color name="folderadd_text_shadowColor">#00000000</color>
+<bool name="folderadd_text_shadow">false</bool>
+<color name="widget_text_color">#FFFFFFFF</color>
+<color name="calendar_dynamic_date">#FFFFFFFF</color>
+<color name="calendar_dynamic">#FFFFFFFF</color>
+<color name="calendar_dynamic_shadow">#00000000</color>
+<color name="clock_dynamic_icon_color">#FFFFFFFF</color>
+<color name="alphaindexer_pop_text_color">#FFEBA601</color>
+<color name="ic_home_checkbox_off_center_color">#FF707070</color>
+<color name="ic_home_checkbox_off_rim_color">#FFFFFFFF</color>
+</resources>

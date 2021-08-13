@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<color name="qs_customize_background_color1">#FFFFFFFF</color>
+<color name="ripple_drawable_dark_color">#0D000000</color>
+<color name="notification_button_pressed_bg_color">#0D000000</color>
+<color name="qs_tile_tint_on">#FFFFFFFF</color>
+<color name="volume_image_color">#FFEBA601</color>
+<color name="volume_unfocus">#FFEBA601</color>
+<color name="notification_background_color_without_alpha">#FFFFFFFF</color>
+<color name="volume_line_color">#FF000000</color>
+</resources>
