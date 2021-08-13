@@ -7,7 +7,9 @@ If you are on EMUI click <a href="https://github.com/CriosChan/SwordArtOnlineEMU
 If you want to download the icon pack click <a href="https://github.com/CriosChan/SwordArtOnlineEMUITheme/releases/download/v100-emui10/Icons.zip">here</a>.
 
 # Preview
-![COVER](https://github.com/CriosChan/SwordArtOnlineEMUITheme/blob/main/preview/cover.jpg?raw=true)
-![ICON_SMALL](https://github.com/CriosChan/SwordArtOnlineEMUITheme/blob/main/preview/icon_small.jpg?raw=true)
-![PREVIEW_ICONS_0](https://github.com/CriosChan/SwordArtOnlineEMUITheme/blob/main/preview/preview_icons_0.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/CriosChan/SwordArtOnlineEMUITheme/blob/main/preview/cover.jpg?raw=true" width="350" title="Cover"><br><br>
+  <img src="https://github.com/CriosChan/SwordArtOnlineEMUITheme/blob/main/preview/icon_small.jpg?raw=true" width="350" alt="Icons"><br><br>
+  <img src="https://github.com/CriosChan/SwordArtOnlineEMUITheme/blob/main/preview/preview_icons_0.jpg?raw=true" width="350" alt="Icons">
+</p
 
